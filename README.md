@@ -40,11 +40,11 @@ We built machine learning models to estimate used car prices using a structured 
 
 ##  Dataset
 - Source: [Kaggle or public dataset]  
-*([Replace with actual link if available](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge))*
+*((https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge))*
 
 
 
 ## Author
 **Mohamed Hassan Ali Shaban**  
-[GitHub Profile](https://github.com/Muhammad72d)
+(https://github.com/Muhammad72d)
 
